@@ -11,8 +11,7 @@ to mirror the weebsite</p>
 ## The video below shows what happens when you run the script
 <video autoplay src="https://github.com/user-attachments/assets/c28f308c-4e43-4973-9ff6-d2f6200dd317"></video>
 
-## Requirements needed for this project
-
+## Installation
 ### Note these instructions only apply for linux
 
 
